@@ -1,0 +1,1 @@
+找到你的游戏版本文件，把'axiom代码'中的文件拷贝到'<游戏版本>\config\axiom\tool_presets\script_brush'中，进入游戏，你的脚本笔刷的预设里就有代码了
